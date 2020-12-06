@@ -16,7 +16,7 @@ Depending on the day and the problem I may use imperitive, functional, or object
 I largely have ignored error handling and test cases. I chose to do that purposfully. I believe error handling and test cases are crucial to well written code that a user interacts with in some material way. Given this code will only ever have one input, that noone will use, I focused on honing my general Golang skills not on making production ready code.
 
 ## Solutions
-[Day 1](day1/)
-[Day 2](day2/)
-[Day 3](day3/)
-[Day 4](day4/)
+[Day 1](day1/)  
+[Day 2](day2/)  
+[Day 3](day3/)  
+[Day 4](day4/)  
