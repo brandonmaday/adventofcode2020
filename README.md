@@ -9,7 +9,7 @@ I've chosen to do Advent of Code 2020 in Golang because
 I've split each day into it's own folder with it's own README.md that explains that day's puzzles. AOC breaks up puzzles into 2 parts, giving a star for each one. The second almost always is an extension of the first, often sharing the same puzzle input. I've included my puzzle input for each so you should be able to clone and run this locally, batteries included.
 
 ## Coding Paradigm
-Depending on the day and the problem I may use imperitive, functional, or object oriented programming.  I'll may go back and write the same problem in two differen't paradigms because I find that stuff fun (crazy am I).  If I do, I'll use _ip, _fp, and _oop in the file name's respectively.
+Depending on the day and the problem I may use imperitive, functional, or object oriented programming.  I may go back and write the same problem in two differen't paradigms because I find that stuff fun (crazy am I).  If I do, I'll use _ip, _fp, and _oop in the file name's respectively.
 
 
 ## Disclaimer
@@ -22,3 +22,4 @@ I largely have ignored error handling and test cases. I chose to do that purposf
 [Day 4](day4/)  
 [Day 5](day5/)  
 [Day 6](day6/)  
+[Day 7](day7/)  
